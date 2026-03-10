@@ -1,6 +1,6 @@
 ## Run Locally
 
-### 1. Clone repo
+### 1. Clone Github repo
 
 ```
 $ git clone https://github.com/samruddhi02004/MERN_ECOMMERCE.git
